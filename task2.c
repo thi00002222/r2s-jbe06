@@ -151,7 +151,7 @@ int main()
             break;
         default:
             printf("please choice again");
-            scanf("%d",&choice);
+            
         }
 
     } while (quit == 0);
