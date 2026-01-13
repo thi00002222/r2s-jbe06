@@ -7,7 +7,6 @@ public class Museum {
         byte choice = 0;
         do {
             try {
-
             System.out.println("1. Add a new Vase");
             System.out.println("2. Add a new Statue");
             System.out.println("3. Add a new Painting");

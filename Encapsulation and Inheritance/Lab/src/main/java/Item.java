@@ -71,8 +71,6 @@ public class Item {
             System.out.println("Creator is not null");
         }
 //
-
-
     }
 @Override
     public String toString() {
